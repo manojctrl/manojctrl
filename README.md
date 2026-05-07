@@ -1,12 +1,5 @@
 # 🚀 Manoj Katwal
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Manoj%20Katwal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Computer+Science+Student;MERN+%7C+Java+Developer;Building+Modern+Web+Applications;Code.+Learn.+Build.+Repeat." />
-</div>
 
 ---
 
