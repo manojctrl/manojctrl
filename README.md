@@ -1,76 +1,231 @@
-🚀 Manoj Katwal
+# 🚀 Manoj Katwal
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Manoj%20Katwal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Manoj%20Katwal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38C2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;React+%7C+Node.js+Developer;Problem+Solver+%26+Tech" />
-</div>
-
-## 👨‍💻 About Me
-
-🎓 **Computer Science Student** at Itahari International College  
-💻 **Learning:** Java, React, Node.js, Embedded Systems  
-🔧 **Currently building:** RojgarSetu – Job Portal & Career Platform  
-🚀 **Interested in:** Full Stack Development, Java Swing, IoT  
-🎯 **Goal:** Become a professional software developer  
-📧 **Email:** katwalmanoj67@gmail.com  
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/manoj-katwal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/manoj_katwal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/2024-manoj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:katwalmanoj67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <h3>Frontend</h3>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-  <h3>Backend</h3>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <h3>Database</h3>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-  <h3>Tools</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</div>
-
-## 📚 Currently Learning
-
-- 🌱 **Advanced React Patterns** - Hooks, Context API, Redux Toolkit
-- 🔧 **Spring Boot** - Building robust Java backend applications
-- 📊 **Database Optimization** - Query optimization and indexing strategies
-- 🤖 **IoT Integration** - Connecting microcontrollers with web applications
-
-## 💡 Daily Motto
-
-> *"Code every day. Learn every day. Build real things."*
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Computer+Science+Student;MERN+%7C+Java+Developer;Building+Modern+Web+Applications;Code.+Learn.+Build.+Repeat." />
 </div>
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
-  
-  ### ⭐ Star your favorite repositories if you find them useful!
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=100&section=footer)
+
+### 👨‍💻 Passionate Developer from Nepal 🇳🇵
+
+💡 Turning ideas into real-world software solutions
+
+</div>
+
+---
+
+# 🧑‍💻 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```python
+class ManojKatwal:
+
+    def __init__(self):
+
+        self.name = "Manoj Katwal"
+        self.role = "Full Stack Developer"
+        self.education = "CS Student @ Itahari International College"
+
+        self.current_focus = [
+            "RojgarSetu Job Portal",
+            "Java Full Stack",
+            "React Projects"
+        ]
+
+        self.interests = [
+            "Web Development",
+            "Java Swing",
+            "Backend Systems",
+            "Embedded Systems"
+        ]
+
+        self.goal = "Build scalable and impactful software"
+
+    def mantra(self):
+        return "Code. Break. Fix. Learn. Repeat."
+
+
+me = ManojKatwal()
+
+print(me.mantra())
+```
+
+```bash
+>> Code. Break. Fix. Learn. Repeat.
+```
+
+<br clear="right"/>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/manoj-katwal">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/manoj_katwal">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://github.com/2024-manoj">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:katwalmanoj67@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+# 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+
+<br/><br/>
+
+# ⚡ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JSP%2FServlet-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+<br/><br/>
+
+# 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+<br/><br/>
+
+# 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| 🚀 Technology | 📖 Learning Focus                 |
+| ------------- | --------------------------------- |
+| ⚛️ React      | Hooks, Context API, Redux Toolkit |
+| ☕ Spring Boot | REST APIs & Backend Architecture  |
+| 🗄️ Database  | Query Optimization & Indexing     |
+| 🤖 IoT        | Embedded Systems & Integrations   |
+| 🌐 Full Stack | MERN & Java Enterprise Apps       |
+
+</div>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2024-manoj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2024-manoj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFAA"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=2024-manoj&theme=radical&hide_border=true&background=0d1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2024-manoj&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00FFAA&line=00FFAA&point=ffffff"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=2024-manoj&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=2024-manoj&style=for-the-badge&color=00FFAA&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+### 💻 I enjoy transforming ideas into real-world applications
+
+### 🚀 Consistency + Curiosity = Growth
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+### ⭐ Star your favorite repositories if you find them useful ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer"/>
+
 </div>
