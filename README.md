@@ -1,4 +1,4 @@
-# 🚀WHO IS Manoj Katwal ?
+# 🚀WHO IS MANOJ KATUWAL ?
 
 ---
 
