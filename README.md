@@ -122,33 +122,9 @@ print(me.mantra())
 
 ---
 
-# 📚 Currently Learning
 
-<div align="center">
 
-| 🚀 Technology | 📖 Learning Focus                 |
-| ------------- | --------------------------------- |
-| ⚛️ React      | Hooks, Context API, Redux Toolkit |
-| ☕ Spring Boot | REST APIs & Backend Architecture  |
-| 🗄️ Database  | Query Optimization & Indexing     |
-| 🤖 IoT        | Embedded Systems & Integrations   |
-| 🌐 Full Stack | MERN & Java Enterprise Apps       |
 
-</div>
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2024-manoj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2024-manoj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFAA"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -160,15 +136,7 @@ print(me.mantra())
 
 ---
 
-# 📊 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2024-manoj&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00FFAA&line=00FFAA&point=ffffff"/>
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
