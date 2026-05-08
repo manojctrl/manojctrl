@@ -138,36 +138,6 @@ print(me.mantra())
 
 
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=2024-manoj&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 💬 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=2024-manoj&style=for-the-badge&color=00FFAA&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
 # ⚡ Fun Fact
 
 <div align="center">
