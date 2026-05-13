@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### 👨‍💻 Passionate Developer from Nepal 🇳🇵
+### 👨‍💻 Passionate Developer from the Himalayas Nepal 🇳🇵
 
 💡 Turning ideas into real-world software solutions
 
