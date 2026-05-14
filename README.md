@@ -122,17 +122,6 @@ print(me.mantra())
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2024-manoj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2024-manoj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
