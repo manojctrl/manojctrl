@@ -1,13 +1,14 @@
-# 🚀WHO THE HELL IS MANOJ KATUWAL ???
-
+# 🚀 WHO THE HELL IS MANOJ KATWAL ???
 
 ---
 
 <div align="center">
 
-### 👨‍💻 Passionate Developer from the Himalayas Nepal 🇳🇵
+### 👨‍💻 Passionate Full Stack Developer from Nepal 🇳🇵
 
 💡 Turning ideas into real-world software solutions
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Building+Projects+Everyday;Code.+Break.+Fix.+Learn.+Repeat." />
 
 </div>
 
@@ -23,19 +24,23 @@ class ManojKatwal:
     def __init__(self):
 
         self.name = "Manoj Katwal"
+
         self.role = "Full Stack Developer"
+
         self.education = "CS Student @ Itahari International College"
 
         self.current_focus = [
             "RojgarSetu Job Portal",
             "Java Full Stack",
-            "React Projects"
+            "React Projects",
+            "Spring Boot APIs"
         ]
 
         self.interests = [
             "Web Development",
             "Java Swing",
             "Backend Systems",
+            "REST APIs",
             "Embedded Systems"
         ]
 
@@ -86,13 +91,13 @@ print(me.mantra())
 
 <div align="center">
 
-# 🎨 Frontend
+## 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
 
 <br/><br/>
 
-# ⚡ Backend
+## ⚡ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
 
@@ -103,13 +108,13 @@ print(me.mantra())
 
 <br/><br/>
 
-# 🗄️ Database
+## 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 <br/><br/>
 
-# 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 
@@ -123,21 +128,37 @@ print(me.mantra())
 
 ---
 
-
-
-
-
-# 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=2024-manoj&theme=radical&hide_border=true&background=0d1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2024-manoj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2024-manoj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 ---
 
+# 🔥 GitHub Streak
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=2024-manoj&theme=radical&hide_border=true&background=0d1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=2024-manoj&theme=radical&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
 
 # ⚡ Fun Fact
 
