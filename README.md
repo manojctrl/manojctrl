@@ -36,13 +36,7 @@ class ManojKatwal:
             "Spring Boot APIs"
         ]
 
-        self.interests = [
-            "Web Development",
-            "Java Swing",
-            "Backend Systems",
-            "REST APIs",
-            "Embedded Systems"
-        ]
+     
 
         self.goal = "Build scalable and impactful software"
 
@@ -150,15 +144,6 @@ print(me.mantra())
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=2024-manoj&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 # ⚡ Fun Fact
 
