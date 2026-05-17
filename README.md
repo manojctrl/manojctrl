@@ -127,9 +127,10 @@ print(me.mantra())
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=2024-manoj&theme=radical&hide_border=true&background=0d1117"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=2024-manoj&theme=radical&hide_border=true&background=0d1117)
 
 </div>
+
 
 ---
 
