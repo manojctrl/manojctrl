@@ -36,8 +36,6 @@ class ManojKatwal:
             "Spring Boot APIs"
         ]
 
-     
-
         self.goal = "Build scalable and impactful software"
 
     def mantra(self):
@@ -50,7 +48,9 @@ print(me.mantra())
 ```
 
 ```bash
->> Code. Break. Fix. Learn. Repeat.
+$ python manoj.py
+
+Code. Break. Fix. Learn. Repeat.
 ```
 
 <br clear="right"/>
@@ -69,7 +69,7 @@ print(me.mantra())
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://github.com/2024-manoj">
+<a href="https://github.com/manojctrl">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -122,18 +122,15 @@ print(me.mantra())
 
 ---
 
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=2024-manoj&theme=radical&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=manojctrl&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
-
 ---
-
 
 # ⚡ Fun Fact
 
