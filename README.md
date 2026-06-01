@@ -81,45 +81,6 @@ Code. Break. Fix. Learn. Repeat.
 
 ---
 
-# ⚡ Tech Stack
-
-<div align="center">
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
-
-<br/><br/>
-
-## ⚡ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/JSP%2FServlet-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-
-<br/><br/>
-
-## 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-<br/><br/>
-
-## 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-
-</div>
-
 ---
 
 # 🔥 GitHub Streak
@@ -130,19 +91,7 @@ Code. Break. Fix. Learn. Repeat.
 
 </div>
 
----
 
-# ⚡ Fun Fact
-
-<div align="center">
-
-### 💻 I enjoy transforming ideas into real-world applications
-
-### 🚀 Consistency + Curiosity = Growth
-
-</div>
-
----
 
 <div align="center">
 
